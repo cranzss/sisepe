@@ -1,0 +1,114 @@
+.button {
+    text-transform: lowercase;
+    font-weight: 360;
+    padding-left: 2.2em;
+    padding-right: 2.2em;
+}
+
+.button-primary {
+    background-color: black;
+}
+
+.button-primary:hover {
+    background-color: #2e2e2e;
+}
+
+.block{
+    margin-bottom: 80px;
+}
+
+#slider h1{
+    text-transform: lowercase;
+    font-weight: 600;
+}
+
+#slider h4{
+    text-transform: lowercase;
+    font-weight: 400;
+}
+
+
+#sobre h1{
+    text-transform: lowercase;
+    font-weight: 600;
+}
+
+#sobre h4{
+    text-transform: lowercase;
+    font-weight: 400;
+}
+
+#contato h1{
+    text-transform: lowercase;
+    font-weight: 600;
+}
+
+#contato h4{
+    text-transform: lowercase;
+    font-weight: 400;
+}
+
+#servicos h1{
+    text-transform: lowercase;
+    font-weight: 600;
+}
+
+#servicos h4{
+    text-transform: lowercase;
+    font-weight: 400;
+}
+
+#servicos ul li{
+    font-size: 20px;
+    text-transform: lowercase;
+    font-weight: 400;
+}
+
+
+
+#zap h1{
+    text-transform: lowercase;
+    font-weight: 600;
+}
+
+#zap h4{
+    text-transform: lowercase;
+    font-weight: 400;
+}
+
+#email h1{
+    text-transform: lowercase;
+    font-weight: 600;
+}
+
+#email h4{
+    text-transform: lowercase;
+    font-weight: 400;
+}
+
+#tel h1{
+    text-transform: lowercase;
+    font-weight: 600;
+}
+
+#tel h4{
+    text-transform: lowercase;
+    font-weight: 400;
+}
+
+#local h1{
+    text-transform: lowercase;
+    font-weight: 600;
+}
+
+#local h4{
+    text-transform: lowercase;
+    font-weight: 400;
+}
+
+#rodape h2{
+    font-size: 16px;
+    color: white;
+    text-transform: lowercase;
+    font-weight: 100;
+}
