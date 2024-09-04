@@ -3,6 +3,7 @@
     font-weight: 360;
     padding-left: 2.2em;
     padding-right: 2.2em;
+    border: 0px;
 }
 
 .button-primary {
@@ -10,40 +11,46 @@
 }
 
 .button-primary:hover {
-    background-color: #216eb6;
+    background-color: #8dbedf;
 }
 
 .block{
-    margin-bottom: 80px;
+    height: 450px;
 }
 
 #slider h1{
+    color: #3770e2;
     text-transform: lowercase;
     font-weight: 600;
 }
 
 #slider h4{
+    color: #5588e9;
     text-transform: lowercase;
     font-weight: 400;
 }
 
 
 #sobre h1{
+    color: #3770e2;
     text-transform: lowercase;
     font-weight: 600;
 }
 
 #sobre h4{
+    color: #5588e9;
     text-transform: lowercase;
     font-weight: 400;
 }
 
 #contato h1{
+    color: #3770e2;
     text-transform: lowercase;
     font-weight: 600;
 }
 
 #contato h4{
+    color: #5588e9;
     text-transform: lowercase;
     font-weight: 400;
 }
