@@ -6,11 +6,11 @@
 }
 
 .button-primary {
-    background-color: black;
+    background-color: #2e98fe;
 }
 
 .button-primary:hover {
-    background-color: #2e2e2e;
+    background-color: #216eb6;
 }
 
 .block{
