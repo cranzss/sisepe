@@ -6,15 +6,15 @@ body, html {
 #header {
     width: 100%;
     background-color: #aeceff;
-    transition: background ease-out 0.2s;
+    transition: background ease-out 0.5s;
 }
 
-#header.active {
+/* #header.active {
     position: fixed;
     background: #aeceff;
     box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.5);
     z-index: 9999;
-}
+} */
 
 #header .collapse.navbar-collapse {
     width: auto;
